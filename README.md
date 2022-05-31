@@ -9,7 +9,7 @@ The project documentation, generated with Doxygen can be found in the following 
 
 Jupyter notebook
 ------------
-The jupyter notebook can be found in the following file: [__AssignmentAM.ipynb__](https://github.com/marcomacchia99/RT2_Assignment/blob/master/Assignment.ipynb)
+The jupyter notebook can be found in the following file: [__AssignmentAM.ipynb__](https://github.com/andreamanera/RT2/blob/master/AssignmentAM.ipynb)
 
 Data Analysis
 ------------
