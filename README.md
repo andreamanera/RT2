@@ -1,9 +1,7 @@
-Research Track 1 third (final) assignment
-================================
 
 Code Documentation
 ------------
-The project documentation, generated with Doxygen can be found in the following link:
+The project documentation, generated with Doxygen can be found at the following link:
 
 [__https://andreamanera.github.io/RT2/__](https://andreamanera.github.io/RT2/)
 
@@ -15,6 +13,8 @@ Data Analysis
 ------------
 The results of the data analysis, computed with Matlab, can be found in the [__PDF Report__](https://github.com/andreamanera/RT2/blob/master/Research_Track_2_data_analysis.pdf)
 
+Research Track 1 third (final) assignment
+================================
 
 The third and final assignment of the Research Track 1 course is about the use of a robot simulator in ROS.
 The tasks for this assignment are to define three modalities with which the robot can move in the given environment.
