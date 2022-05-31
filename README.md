@@ -1,6 +1,9 @@
 Research Track 1 third (final) assignment
 ================================
 
+You can find the code documentation at: https://andreamanera.github.io/RT2/
+
+
 The third and final assignment of the Research Track 1 course is about the use of a robot simulator in ROS.
 The tasks for this assignment are to define three modalities with which the robot can move in the given environment.
 The user can choose which mode to use through a user interface.
