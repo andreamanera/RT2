@@ -1,7 +1,19 @@
 Research Track 1 third (final) assignment
 ================================
 
-You can find the code documentation at: https://andreamanera.github.io/RT2/
+Code Documentation
+------------
+The project documentation, generated with Doxygen can be found in the following link:
+
+[__https://andreamanera.github.io/RT2/__](https://andreamanera.github.io/RT2/)
+
+Jupyter notebook
+------------
+The jupyter notebook can be found in the following file: [__AssignmentAM.ipynb__](https://github.com/marcomacchia99/RT2_Assignment/blob/master/Assignment.ipynb)
+
+Data Analysis
+------------
+The results of the data analysis, computed with Matlab, can be found in the [__PDF Report__](https://github.com/andreamanera/RT2/blob/master/Research_Track_2_data_analysis.pdf)
 
 
 The third and final assignment of the Research Track 1 course is about the use of a robot simulator in ROS.
